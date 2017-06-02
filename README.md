@@ -1,2 +1,2 @@
 # SiteBootstrap
-Site implementado com o Framework Bootstrap
+Site implementado com o Framework Bootstrap.
