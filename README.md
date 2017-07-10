@@ -1,2 +1,2 @@
 # SiteBootstrap
-Site implementado com o Framework Bootstrap.joãozinho
+Site implementado com o Framework Bootstrap.
